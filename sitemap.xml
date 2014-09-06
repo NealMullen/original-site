@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://nealmullen.me/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/work/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/about/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/what-i-do/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/work/legal-concept/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/work/bbc-referend-erm/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nealmullen.me/work/martin-and-co/</loc>
+  <lastmod>2014-09-01T17:45:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>
